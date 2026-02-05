@@ -1,0 +1,22 @@
+{
+  "name": "Calculadora",
+  "label": "Calculadora",
+  "type": "widget",
+  "version": "1.15.0",
+  "exbVersion": "1.15.0",
+  "author": "Marcus",
+  "description": "Widget de gerenciamento de feições",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasSettingPage": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 200
+  },
+  "useMapWidget": true
+}
